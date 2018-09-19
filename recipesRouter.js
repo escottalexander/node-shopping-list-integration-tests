@@ -76,7 +76,6 @@ router.put("/:id", (req, res) => {
     ingredients: req.body.ingredients
   });
   res.status(200).json(updatedItem);
-  // res.status(204).end();
 });
 
 module.exports = router;
