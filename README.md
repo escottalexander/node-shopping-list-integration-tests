@@ -1,5 +1,6 @@
 Shopping list v5
 ================
+You can view the live version at this link: https://radiant-gorge-42464.herokuapp.com/
 
 https://github.com/Thinkful-Ed/node-shopping-list-v5
 
